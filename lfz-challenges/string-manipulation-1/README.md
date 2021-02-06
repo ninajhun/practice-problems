@@ -2,9 +2,6 @@
 
 JavaScript string manipulation practice with unit tests.
 
-### Before You Begin
-
-Be sure to check out a new branch (from `master`) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md). Then navigate to the `exercises/string-manipulation-1` directory in your terminal.
 
 ### Exercise
 
